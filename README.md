@@ -2,7 +2,7 @@
 
 An end-to-end **E-Commerce automation testing framework** built using **Playwright + TypeScript**.
 
-This project demonstrates UI automation, Page Object Model, test fixtures, test data management, screenshots, HTML reports, and reusable automation components.
+This project demonstrates UI automation, Page Object Model, test fixtures, test data management, screenshots, HTML reports, and reusable automation components. 
 
 ---
 
